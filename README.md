@@ -1,6 +1,6 @@
 # KTMPC
 
-We propose a Koopman-based tracking MPC (KTMPC) controller for nonlinear systems to track piecewise contant references. The proposed KTMPC controller is tested with an autonomous ground vehicle (AGV) unicycle model. This repository contains the codes of the simulation implementation of our draft paper:
+We propose a Koopman-based tracking MPC (KTMPC) controller for nonlinear systems to track piecewise constant references. The proposed KTMPC controller is tested with an autonomous ground vehicle (AGV) unicycle model. This repository contains the codes of the simulation implementation of our draft paper:
 
 ### Data-driven Predictive Tracking Control based on Koopman Operators
 
